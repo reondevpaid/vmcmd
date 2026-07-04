@@ -1,6 +1,6 @@
 # FREE FIREBASE ,GIHUB VPS 
 
-``` bash <(curl -s https://raw.githubusercontent.com/reongamer834/vmcmd/main/vm.sh) ```
+``` bash <(curl -s https://raw.githubusercontent.com/reondevpaid/vmcmd/main/vm.sh) ```
 
 
 
