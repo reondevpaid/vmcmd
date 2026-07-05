@@ -1,8 +1,8 @@
-# FREE FIREBASE ,GIHUB VPS 
+# YOU CAN YOU IT IN ANY VPS
 
 ``` bash <(curl -s https://raw.githubusercontent.com/reondevpaid/vmcmd/main/vm.sh) ```
 
 
 
-MAKE BY REON AND NOBITA
+Made By Reon,Nobita
 
